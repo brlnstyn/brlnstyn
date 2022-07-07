@@ -1,4 +1,7 @@
 ### Hi there 👋
+### - 🔭 I’m currently studying on SMK Wikrama Bogor
+### - 😄 Pronouns: She/Her
+### - ⚡ Fun fact: I like anime and k-pop
 
 <!--
 **brlnstyn/brlnstyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
