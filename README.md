@@ -1,5 +1,4 @@
 ### Hi there 👋
-### - 🔭 I’m currently studying on SMK Wikrama Bogor
 ### - 😄 Pronouns: She/Her
 
 <!--
