@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate with other developer around the world
 - ⚡ Fun fact: 80% of my code is from ChatGPT
 
-![Berliana github stats](https://github-readme-stats-roan-psi-62.vercel.app/api?username=brlnstyn&count_private=true&theme=dark&show_icons=true&include_all_commits=true) 
+[![Berliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=brlnstyn&show_icons=true&theme=onedark)](https://github.com/brlnstyn/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats-roan-psi-62.vercel.app/api/top-langs/?username=brlnstyn&langs_count=4&theme=dark)](https://github.com/brlnstyn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brlnstyn&layout=donut)](https://github.com/brlnstyn/github-readme-stats)
 
 ### Connect with me:
 
