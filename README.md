@@ -1,9 +1,7 @@
-# Hello there! - I'm Berliana Setyani 👋
+# Hello there! - I'm Berliana 👋
 
-## Developer By Day, Gamer By Night!!
-
-- 👯 I’m looking to collaborate with other developer around the world
-- ⚡ Fun fact: 80% of my code is from ChatGPT
+- 👯 I’m looking to collaborate with other developers around the world
+- ⚡ Fun fact: 80% of my code is from Claude
 
 [![Berliana's GitHub stats](https://github-readme-stats-berlins-projects-7b24cb1e.vercel.app/api?username=brlnstyn&show_icons=true&theme=transparent)](https://github.com/brlnstyn/github-readme-stats)
 <br />
